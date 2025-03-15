@@ -1,0 +1,6 @@
+iframe {
+    width: 100% !important;
+}
+iframe .haAclf {
+    width: -webkit-fill-available;
+}

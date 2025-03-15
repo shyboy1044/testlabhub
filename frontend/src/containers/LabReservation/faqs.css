@@ -1,0 +1,45 @@
+.faq_list span.marker {
+    display: block;
+    position: absolute;
+    left: 0;
+    top: 0;
+    font-size: 15px;
+    color: #700203;
+    font-weight: 700;
+}
+.faq_list dd .marker {
+    top: 3px;
+}
+.faq_list {
+}
+.faq_list dt {
+    color: #700203;
+    position: relative;
+    padding: 0 0 0 32px;
+    font-size: 15px;
+    font-weight: 700;
+    margin: 0;
+    background: 0 0;
+}
+
+.faq_list dd {
+    padding: 0 0 0 28px;
+    position: relative;
+    margin: 0 0 2em;
+    color: #fff;
+}
+dl dt {
+    padding: 0 0 3px 32px;
+    margin-bottom: 0.2em;
+    font-size: 18px;
+    line-height: 1.2em;
+    color: #191919;
+}
+dl dd {
+    padding: 0 0 0 32px;
+    margin: 0 0 1.5em;
+}
+
+dd p {
+    color: black !important;
+}
